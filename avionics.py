@@ -2,7 +2,7 @@
 
 import rocket
 
-if rocket.about_to_crash == true:
+if rocket.about_to_crash == True:
     dont()
 
 # This is some more text.
