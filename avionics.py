@@ -3,7 +3,7 @@
 import rocket
 
 if rocket.about_to_crash == True:
-    dont()
+    dont(rocket.position)
 
 # This is some more text.
 # What did you guys have for breakfast?
